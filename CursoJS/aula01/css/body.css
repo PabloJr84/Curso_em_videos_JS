@@ -1,3 +1,8 @@
 body{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
+    color: wheat;
+    font: normal 11pt arial;
+}
+h1{
+    color: yellow;
 }
