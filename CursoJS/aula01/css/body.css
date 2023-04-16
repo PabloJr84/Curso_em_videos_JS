@@ -6,3 +6,8 @@ body{
 h1{
     color: yellow;
 }
+
+p{
+    color:wheat ;
+    font: normal 12pt arial;
+}
